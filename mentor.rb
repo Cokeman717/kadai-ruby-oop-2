@@ -13,7 +13,7 @@ end
 
 class RailsMentor < Mentor
     
-    attr_accessor :name
+    #attr_accessor :name
     
     def initialize(name)
         super
